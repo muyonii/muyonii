@@ -5,7 +5,7 @@
 <!-- Hello, I'm Alfie animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2500&vCenter=true&width=310&height=40&lines=Hello,+I'm+Alfie+Arellano." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2500&vCenter=true&width=310&height=40&lines=𝙷𝚎𝚕𝚕𝚘,+𝙸'𝚖+𝙰𝚕𝚏𝚒𝚎+𝙰𝚛𝚎𝚕𝚕𝚊𝚗𝚘." alt="Typing SVG" />
   </a>
 </p>
 
