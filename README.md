@@ -70,21 +70,4 @@
       </picture>
     </a></td>
   </tr>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-7F3FFF?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-7F3FFF?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-7F3FFF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-7F3FFF?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-7F3FFF?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-7F3FFF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-7F3FFF?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-7F3FFF?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-7F3FFF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-7F3FFF?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-7F3FFF?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-7F3FFF?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/VS_Code-7F3FFF?style=for-the-badge&logo=vsc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-7F3FFF?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-7F3FFF?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
 </table>
